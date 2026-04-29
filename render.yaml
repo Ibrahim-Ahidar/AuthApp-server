@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: authapp-server
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free

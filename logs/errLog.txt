@@ -1,0 +1,11 @@
+20260422	18:10:24	63b01739-d3bf-4876-b6e6-15532e8e1733	TypeError: The argument 'encoding' is invalid encoding. Received 'kiko'
+20260422	19:56:48	73ceb2f5-2359-4ac8-a8dd-fcab74e48055	ReferenceError: employees is not defined
+20260422	19:56:59	c46447b9-15dd-4075-9c8b-d980a38bd42c	ReferenceError: employees is not defined
+20260422	19:57:28	6d8a6b3a-7047-43eb-83e9-5f2a43975f65	ReferenceError: employees is not defined
+20260422	19:58:58	45b27eb6-fbb4-4e47-8454-8a769504d227	ReferenceError: employees is not defined
+20260422	20:01:10	2720db9f-d10b-4130-9307-865b2bad455b	ReferenceError: employees is not defined
+20260426	19:21:40	576d8db2-b304-4305-bc7c-8f8a78c6ad14	TypeError: Cannot read properties of undefined (reading 'roles')
+20260426	20:06:37	058dee54-6412-4823-9506-2d6fe11d0941	ReferenceError: erq is not defined
+20260426	20:15:28	82ba7d08-89aa-4190-98fb-e70eade047b2	SyntaxError: Expected double-quoted property name in JSON at position 24 (line 3 column 1)
+20260426	20:17:34	a93913a6-2ccd-4413-b76e-25151676474a	SyntaxError: Unexpected non-whitespace character after JSON at position 83 (line 6 column 1)
+20260426	20:17:43	00f5d610-2abf-4b8a-8f8a-7f7a767e0474	SyntaxError: Unexpected non-whitespace character after JSON at position 81 (line 5 column 2)
